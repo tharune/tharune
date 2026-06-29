@@ -22,7 +22,7 @@ I build internal tools and data pipelines for finance teams, and spend most of m
 
 | Projects | Hackathon Wins | Research Competition Wins | Competition Winnings | APIs Integrated | Automations Built |
 |---|---|---|---|---|---|
-| 16 | 6 | 3 | $64,800 | 20 | 28 |
+| 16 | 7 | 3 | $74,800 | 20 | 28 |
 
 ---
 
@@ -34,6 +34,7 @@ Structured products, pricing models, and trading infrastructure across predictio
 
 | Date | Project | Award | Prize |
 |---|---|---|---|
+| Jun 2026 | **Senthos** | Winner (25 of 2,851 submissions), Colosseum Frontier — the largest hackathon ever held in crypto (19,000 participants); accepted into the accelerator (1 of 21 teams) | $10,000 |
 | Jun 2026 | **Cumulant** | Finalist (10 of 232 teams) + Arc prediction-market bounty, ETHGlobal New York | $3,500 |
 | May 2026 | **KelpDAO research** | Winner (3 of 60+), Artemis × DormDAO | $1,000 |
 | Apr 2026 | **Senthos** | 1st place + Best Use of Solana, SCBC Solana Track | $7,500 |
