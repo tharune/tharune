@@ -8,8 +8,8 @@ I build internal tools and data pipelines for finance teams, and spend most of m
 
 | | |
 |---|---|
-| **Languages** | Python, Rust, Solidity, TypeScript, JavaScript, SQL, Go, Bash, Google Apps Script |
-| **Blockchain & Web3** | Solana (on-chain architecture: PDAs, CPIs, BPF / Sealevel), Anchor, SPL Token, Solana Web3.js, Meteora, Helius, Foundry, Hardhat, EIP-712, EIP-3009, ERC-4626, ERC-721, ERC-8004, x402, Avalanche (C-Chain / Fuji), Circle Arc, Wagmi, Viem, Dynamic, web3.py, Robinhood Chain |
+| **Languages** | Python, Rust, Solidity, Move, TypeScript, JavaScript, SQL, Go, Bash, Google Apps Script |
+| **Blockchain & Web3** | Solana (on-chain architecture: PDAs, CPIs, BPF / Sealevel), Anchor, SPL Token, Solana Web3.js, Meteora, Helius, Foundry, Hardhat, EIP-712, EIP-3009, ERC-4626, ERC-721, ERC-8004, x402, Avalanche (C-Chain / Fuji), Circle Arc, Sui (Move / testnet), DeepBook Predict, Wagmi, Viem, Dynamic, web3.py, Robinhood Chain |
 | **Backend & APIs** | FastAPI, Flask, Express, SQLAlchemy, Supabase, Celery, Redis, REST APIs, WebSockets, OAuth 2.0, Webhooks, MCP, Polymarket (Gamma & CLOB), Google Workspace APIs, Slack Web API, Telegram Bot API, Reddit (PRAW), Jira API, Horizon API, LLM APIs (OpenAI, Anthropic, Google Gemini) |
 | **Data & Analytics** | Pandas, NumPy, Copula Pricing, Monte Carlo Simulations, ARIMA, VADER Sentiment Analysis, Streamlit, LightGBM, XGBoost |
 | **Frontend** | React, Next.js, Vite, Three.js |
@@ -22,7 +22,7 @@ I build internal tools and data pipelines for finance teams, and spend most of m
 
 | Projects | Hackathon Wins | Research Competition Wins | Competition Winnings | APIs Integrated | Automations Built |
 |---|---|---|---|---|---|
-| 16 | 7 | 3 | $74,800 | 20 | 28 |
+| 17 | 8 | 3 | $77,300 | 20 | 28 |
 
 ---
 
@@ -34,6 +34,7 @@ Structured products, pricing models, and trading infrastructure across predictio
 
 | Date | Project | Award | Prize |
 |---|---|---|---|
+| Aug 2026 | **Pelagos** | University Award winner (10 of 747 submissions), Sui Overflow | $2,500 |
 | Jun 2026 | **Senthos** | Winner (25 of 2,851 submissions), Colosseum Frontier — the largest hackathon ever held in crypto (19,000 participants); accepted into the accelerator (1 of 21 teams) | $10,000 |
 | Jun 2026 | **Cumulant** | Finalist (10 of 232 teams) + Arc prediction-market bounty, ETHGlobal New York | $3,500 |
 | May 2026 | **KelpDAO research** | Winner (3 of 60+), Artemis × DormDAO | $1,000 |
