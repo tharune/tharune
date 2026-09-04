@@ -34,7 +34,7 @@ Structured products, pricing models, and trading infrastructure across predictio
 
 | Date | Project | Award | Prize |
 |---|---|---|---|
-| Aug 2026 | **Pelagos** | University Award winner (10 of 747 submissions), Sui Overflow, DeepBook Predict | $2,500 |
+| Aug 2026 | **Pelagos** | University Award winner (10 of 747 submissions), Sui Overflow, Deepbook Track | $2,500 |
 | Jun 2026 | **Senthos** | Winner (25 of 2,851 submissions), Colosseum Frontier — the largest hackathon ever held in crypto (19,000 participants); accepted into the accelerator (1 of 21 teams) | $10,000 |
 | Jun 2026 | **Cumulant** | Finalist (10 of 232 teams) + Arc prediction-market bounty, ETHGlobal New York | $3,500 |
 | May 2026 | **KelpDAO research** | Winner (3 of 60+), Artemis × DormDAO | $1,000 |
