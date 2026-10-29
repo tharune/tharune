@@ -34,7 +34,7 @@ Structured products, pricing models, and trading infrastructure across predictio
 
 | Date | Project | Award | Prize |
 |---|---|---|---|
-| Oct 2026 | **Project Moonshot** | Quicknode Bounty Winner | $1,500 |
+| Oct 2026 | **MoonShift** | One of two Quicknode Bounty Winners out of 70 teams, AI & Fintech XRP Ledger Hackathon | $1,500 |
 | Sep 2026 | **Fluxline** | Winner (3 of dozens of teams), East vs West Hackathon | $30,000 |
 | Aug 2026 | **Pelagos** | University Award winner (10 of 747 submissions), Sui Overflow | $2,500 |
 | Jun 2026 | **Senthos** | Winner (25 of 2,851 submissions), Colosseum Frontier — the largest hackathon ever held in crypto (19,000 participants); accepted into the accelerator (1 of 21 teams) | $10,000 |
